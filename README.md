@@ -10,10 +10,10 @@ _Create a program that calculates a person's target heart rate (THR) and maximum
 
 * Note:  Heart rates are in beats per minute (BPM) and age is in years.*
 
-- Create a method that reads in the user's first name, last name, year of birth and the current year.
-- Create a method that calculates and returns the user's age.
-- Create a method that calculates and returns the user's MHR.
-- Create a method that calculates and returns the minimum THR.
-- Create a method that calculates and returns the maximum THR.
-- Finally create a method that outputs the person's name, age, MHR and minimum and maxumum THR.
+1. Create a method that reads in the user's first name, last name, year of birth and the current year.
+2. Create a method that calculates and returns the user's age.
+3. Create a method that calculates and returns the user's MHR.
+4. Create a method that calculates and returns the minimum THR.
+5. Create a method that calculates and returns the maximum THR.
+6. Finally create a method that outputs the person's name, age, MHR and minimum and maxumum THR.
 
