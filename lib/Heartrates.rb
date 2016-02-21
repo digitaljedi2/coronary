@@ -1,6 +1,6 @@
 require 'date'
 
-class Coronary
+class HeartRates
 
   # This method returns age (in years)
   def age(year_of_birth)
